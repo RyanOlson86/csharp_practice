@@ -1,0 +1,17 @@
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/csharp_practice
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/csharp_practice.deps.json
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/csharp_practice.runtimeconfig.json
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/csharp_practice.dll
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/csharp_practice.pdb
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.AssemblyInfoInputs.cache
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.AssemblyInfo.cs
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.csproj.CoreCompileInputs.cache
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.dll
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/refint/csharp_practice.dll
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.pdb
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.genruntimeconfig.cache
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/ref/csharp_practice.dll
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_practice.csproj.AssemblyReference.cache
+/Users/ryan/Documents/Prime/Tier-3/csharp_practice/obj/Debug/net8.0/csharp_p.459F8D5E.Up2Date

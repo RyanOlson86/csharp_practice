@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZqzWKME++CzV16Q4KKFAdeBV80RxKbMLqLwH4LkvCxC3xH65YAZB9rlSwxd06HK8M38kmrL7a1eVCkKjvp6rA==",
+  "success": true,
+  "projectFilePath": "/Users/ryan/Documents/Prime/Tier-3/csharp_practice/csharp_practice.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
